@@ -1,4 +1,4 @@
-# MyRehab — AI Rehabilitation Plan Generation
+# UzCure — AI Rehabilitation Plan Generation
 
 **Public code excerpt.** This repository contains a curated portion of the MyRehab production
 codebase, published for the President Tech Award incubation program review. The full system is a
